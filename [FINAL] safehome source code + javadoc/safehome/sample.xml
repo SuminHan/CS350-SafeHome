@@ -1,0 +1,19 @@
+<test name="Simple">
+
+    <groups>
+
+      <run>
+
+        <include name="functest"/>
+
+      </run>
+
+    </groups>
+
+    <classes>
+
+      <class name="SimpleTest"/>
+
+    </classes>
+
+  </test>
