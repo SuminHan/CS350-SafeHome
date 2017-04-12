@@ -14,13 +14,15 @@ This project is based on the SafeHome system in the textbook:
 
 ## Final Deliverables
 
-### [Java Code](https://github.com/SuminHan/CS350-SafeHome/tree/master/safehome%20source%20code%20%2B%20javadoc/safehome)
+### [Java Source Code](https://github.com/SuminHan/CS350-SafeHome/tree/master/safehome%20source%20code%20%2B%20javadoc/safehome)
 
 ![alt tag](README/screenshot.png)
 
-You can open the entire java project using Eclipse.
+- You can open the entire java project using Eclipse.
 
-You can also see javadoc in the safehome directory (safehome/doc/index.html)
+- You can also see javadoc in the safehome directory (safehome/doc/index.html)
+
+- [JAR Runnable](safehome_runnable) is available, but you need img and sound files in the directory.
 
 ### Documents
 

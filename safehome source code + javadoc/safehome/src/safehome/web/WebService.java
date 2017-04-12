@@ -35,7 +35,7 @@ public class WebService {
 	public boolean LoginProcess(String id, String pw){
 		for(int i = 0; i < numUsers; i++){
 			if(userList[i].verifyLogin1(id, pw)){
-				String value = JOptionPane.showInputDialog("Password2 : ");
+				String value = JOptionPane.showInputDialog("Password2(init: 1379) : ");
 				if(userList[i].verifyLogin2(value))
 					return true;
 				return false;
