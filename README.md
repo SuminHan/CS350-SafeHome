@@ -1,5 +1,7 @@
 # CS350-SafeHome
 CS350 Intro. to SW Enginnering. SafeHome, the surveillance system for house keeping.
+This project is based on the SafeHome system in the textbook:
+[software engineering a practitioner's approach 8th international edition](https://www.abebooks.com/servlet/BookDetailsPL?bi=15906308924&searchurl=sortby%3D17%26an%3Droger%2Bs%2Bpressman%2Bbruce%2Br%2Bmaxim)
 
 ![alt tag](README/safehome.jpg)
 
