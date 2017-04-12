@@ -3,6 +3,8 @@ CS350 Intro. to SW Enginnering. SafeHome, the surveillance system for house keep
 
 ![alt tag](README/safehome.jpg)
 
+![alt tag](README/intro.png)
+
 This project is based on the SafeHome system in the textbook:
 
 [software engineering a practitioner's approach 8th international edition](https://www.abebooks.com/servlet/BookDetailsPL?bi=15906308924&searchurl=sortby%3D17%26an%3Droger%2Bs%2Bpressman%2Bbruce%2Br%2Bmaxim)
@@ -22,8 +24,11 @@ You can also see javadoc in the safehome directory (safehome/doc/index.html)
 
 ### Documents
 
-Here's the End user manual, the documentation during the SW Engineering process, and the Final SW Testing Report
+Here are the presentation files(intro, final), the End user manual, the documentation during the SW Engineering process, and the Final SW Testing Report
 
+* [Project Intro Presentation](SafeHomeProjectIntro.pdf)
+
+* [Final Presentation](SafeHomeFinalPresentation.pdf)
 
 * [End user manual](EndUserManual.pdf)
 
