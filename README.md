@@ -12,16 +12,21 @@ This project is based on the SafeHome system in the textbook:
 
 ## Final Deliverables
 
+### [Java Code](https://github.com/SuminHan/CS350-SafeHome/tree/master/safehome%20source%20code%20%2B%20javadoc/safehome)
+
 ![alt tag](README/screenshot.png)
 
 You can open the entire java project using Eclipse.
 
-[Source Code](https://github.com/SuminHan/CS350-SafeHome/tree/master/safehome%20source%20code%20%2B%20javadoc/safehome)
-
 You can also see javadoc in the safehome directory (safehome/doc/index.html)
+
+### Documents
+
+Here's the End user manual, the documentation during the SW Engineering process, and the Final SW Testing Report
+
 
 * [End user manual](EndUserManual.pdf)
 
 * [Software Requirement Specification + Analysis + Design Model](SRSAnalysisDesignModel-20150607.pdf)
 
-* [SafeHome Final Report](SafeHomeFinalReport20150607.pdf)
+* [SafeHome Final Testing Report](SafeHomeFinalReport20150607.pdf)
