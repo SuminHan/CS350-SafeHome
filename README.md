@@ -12,19 +12,17 @@ This project is based on the SafeHome system in the textbook:
 ![alt tag](README/textbook.jpg)
 
 
-## Final Deliverables
+### Final Product
 
-### [Java Source Code](https://github.com/SuminHan/CS350-SafeHome/tree/master/safehome%20source%20code%20%2B%20javadoc/safehome)
+* You can open the entire java project using Eclipse: [Java Source Code](/safehome%20source%20code%20%2B%20javadoc/safehome)
 
 ![alt tag](README/screenshot.png)
-
-- You can open the entire java project using Eclipse.
 
 - You can also see javadoc in the safehome directory (safehome/doc/index.html)
 
 - [JAR Runnable](safehome_runnable) is available, but you need img and sound files in the directory.
 
-### Documents
+## Documents
 
 Here are the presentation files(intro, final), the End user manual, the documentation during the SW Engineering process, and the Final SW Testing Report
 
