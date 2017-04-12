@@ -12,9 +12,9 @@ This project is based on the SafeHome system in the textbook:
 ![alt tag](README/textbook.jpg)
 
 
-### Final Product
+## Final Product
 
-* You can open the entire java project using Eclipse: [Java Source Code](/safehome%20source%20code%20%2B%20javadoc/safehome)
+* You can open the entire [Java Project](/safehome%20source%20code%20%2B%20javadoc/safehome) using Eclipse IDE.
 
 ![alt tag](README/screenshot.png)
 
