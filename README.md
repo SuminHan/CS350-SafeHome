@@ -20,8 +20,8 @@ You can open the entire java project using Eclipse.
 
 You can also see javadoc in the safehome directory (safehome/doc/index.html)
 
-[End user manual](EndUserManual.pdf)
+* [End user manual](EndUserManual.pdf)
 
-[Software Requirement Specification + Analysis + Design Model](SRSAnalysisDesignModel-20150607.pdf)
+* [Software Requirement Specification + Analysis + Design Model](SRSAnalysisDesignModel-20150607.pdf)
 
-[SafeHome Final Report](SafeHomeFinalReport20150607.pdf)
+* [SafeHome Final Report](SafeHomeFinalReport20150607.pdf)
